@@ -3,6 +3,8 @@
 
 🐱‍💻In this Repository i will my cricketApp which i have made of dart + flutter + php + mysql 🐱‍💻
 
+Web Dashboard🌐 + App📱 + Api👨🏻‍💻
+
 Developer: Ahmed Irfan
 
 
